@@ -1,5 +1,3 @@
-<body align="center">
-
 <h1 align="center">Hi 👋, I'm Victor de Paula</h1>
 <h3 align="center">Being passionate about Technology and Sports, Astronomy and Music enthusiast. I pursue to work with what makes our lives easier and makes us evolve in all areas: the technology.</h3>
 
@@ -24,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsssp&show_icons=true&theme=dracula&locale=en" alt="vsssp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsssp&theme=dark" alt="vsssp" /></p>
-  
-</body>
