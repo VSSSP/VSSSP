@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsssp" alt="vsssp" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [vsssp.github.io](vsssp.github.io)
+- 👨‍💻 All of my projects are available at [https://vsssp.github.io/](vsssp.github.io)
 
 - 📫 How to reach me **victorssspaula@live.com**
 
