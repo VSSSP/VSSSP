@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor de Paula</h1>
 <h3 align="center">Being passionate about Technology and Sports, Astronomy and Music enthusiast. I pursue to work with what makes our lives easier and makes us evolve in all areas: the technology.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsssp" alt="vsssp" /></a> </p>
-
 - 👨‍💻 All of my projects are available <a href="https://vsssp.github.io/" target="blank">HERE </a>
 
 - 📫 How to reach me **victorssspaula@live.com**
