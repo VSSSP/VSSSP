@@ -15,7 +15,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsssp&show_icons=true&theme=dark&locale=en" alt="vsssp" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsssp&" alt="vsssp" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsssp&theme=dark" alt="vsssp" /></p>
 
 --------
 
