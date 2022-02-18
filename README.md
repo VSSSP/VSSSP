@@ -17,8 +17,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsssp&" alt="vsssp" /></p>
 
-- 👨‍💻 All of my projects are available at [vsssp.github.io](vsssp.github.io)
+--------
 
-- 📫 How to reach me **victorssspaula@live.com**
+- 👨‍💻 Some of my projects are available [**_HERE_**](https://vsssp.github.io)
+- 📫 How to reach me: **victorssspaula@live.com**
 
                                                                                                       
