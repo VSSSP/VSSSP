@@ -3,10 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vsssp&label=Profile%20views&color=0e75b6&style=plastic" alt="vsssp" /> </p>
 
-- 👨‍💻 All of my projects are available at [vsssp.github.io](vsssp.github.io)
-
-- 📫 How to reach me **victorssspaula@live.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/victorssspaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorssspaula" height="30" width="40" /></a>
@@ -20,5 +16,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsssp&show_icons=true&theme=dark&locale=en" alt="vsssp" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsssp&" alt="vsssp" /></p>
+
+- 👨‍💻 All of my projects are available at [vsssp.github.io](vsssp.github.io)
+
+- 📫 How to reach me **victorssspaula@live.com**
 
                                                                                                       
