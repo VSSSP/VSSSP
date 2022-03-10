@@ -19,7 +19,7 @@
 
 --------
 
-- 👨‍💻 Some of my projects are available [**_HERE_**](https://vsssp.github.io)
-- 📫 How to reach me: **victorssspaula@live.com**
+### 👨‍💻 Some of my projects are available [**_HERE_**](https://vsssp.github.io)
+### 📫 How to reach me: **victorssspaula@live.com**
 
                                                                                                       
